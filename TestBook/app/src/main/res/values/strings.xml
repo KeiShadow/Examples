@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VypocetBmi</string>
+    <string name="et_labelVyska">Výška [cm]</string>
+    <string name="et_labelVaha">Váha [kg]</string>
+    <string name="bt_vypocetBMI">Výpočet BMI</string>
+    <string name="nespravne_cislo">Musíte zadat číselnou hodnotu</string>
+    <string name="zobraz_bmi">Vaše BMI je %1$.2f.</string>
+    <string name="title_activity_vypis_bmi">VypisBmiActivity</string>
+</resources>
